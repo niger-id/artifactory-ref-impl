@@ -411,7 +411,8 @@
     "action_modify": "modifier",
     "action_back": "RETOUR",
     "action_add_applicant": "AJOUTER LE CANDIDAT",
-    "action_continue": "CONTINUER"
+    "action_continue": "CONTINUER",
+    "label_pre_id": "ID de pré-inscription"
   },
   "message": {
     "login": {
