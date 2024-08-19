@@ -526,6 +526,7 @@
     "action_back": "RETOUR",
     "action_bookLater": "RÉSERVER PLUS TARD",
     "action_continue": "CONTINUER",
+     "action_add": "Ajouter",
     "note_text":"Veuillez noter que les détails de l'application ne peuvent pas être modifiés une fois le rendez-vous pris pour celle-ci.",
     "booking": {
       "title_success": "Succès",
