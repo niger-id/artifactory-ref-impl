@@ -412,7 +412,7 @@
     "action_back": "RETOUR",
     "action_add_applicant": "AJOUTER LE CANDIDAT",
     "action_continue": "CONTINUER",
-    "label_pre_id": "ID de pré-inscription"
+    "label_pre_id": "Identifiant de l'application"
   },
   "message": {
     "login": {
