@@ -104,7 +104,7 @@
     },
     "Acknowledgement": {
       "name": "Voir accusé de réception",
-      "tablename":"Reconnaissance",
+     "tablename":"Preuve De Pre Enregistrement",
       "list": {
         "line1": "Après avoir complété avec succès la demande de pré-inscription, vous recevrez un accusé de réception.",
         "line2": "Vous pouvez imprimer, télécharger, envoyer par email ou par SMS votre accusé de réception.",
@@ -180,7 +180,7 @@
       }
     },
     "discard": {
-      "name": "Jeter une application",
+      "name": "Supprimer une application",
       "list": {
         "line1": "Sur la page Vos applications, cliquez sur l'icône de suppression en regard de la demande de pré-enregistrement d'un demandeur. Une fenêtre contextuelle apparaît à l'écran.",
         "line2": "Sélectionnez l'option Supprimer toute l'application dans la fenêtre contextuelle.",
@@ -188,7 +188,7 @@
       }
     },
     "Logout": {
-      "name": "Connectez - Out",
+      "name": "Se déconnecte",
       "list": {
         "line1": "Cliquez sur Déconnexion en haut à droite.",
         "line2": "Cliquez sur OK pour vous déconnecter de l'application de pré-inscription."
@@ -274,8 +274,8 @@
     "link_faq": "FAQ",
     "link_contact": "CONTACT",
     "link_applications": "Vos Applications",
-    "link_logout": "Connectez - Out",
-    "link_login": "S'IDENTIFIER"
+     "link_logout": "Se déconnecter",
+    "link_login": "S'ENREGISTRER"
   },
   "login": {
     "text": "Étapes rapides et faciles",
@@ -298,7 +298,7 @@
   "stepper": {
     "link_demographic": "Détails démographiques",
     "link_upload_doc": "Télécharger un document",
-    "link_book": "Rendez-vous du livre",
+    "link_book": "Prise de Rendez vous",
     "link_confirm": "Confirmation"
   },
   "demographic": {
@@ -410,7 +410,7 @@
     "text_not_uploaded": "Non téléchargé",
     "action_modify": "modifier",
     "action_back": "RETOUR",
-    "action_add_applicant": "AJOUTER LE CANDIDAT",
+    "action_add_applicant": "Ajout Un Candidat",
     "action_continue": "CONTINUER",
     "label_pre_id": "Identifiant de l'application"
   },
@@ -572,8 +572,8 @@
     "invalidApplicantNumber": "Numéro de portable invalide",
     "invalidApplicantEmailId": "Identifiant email invalide",
     "action_ok": "D'accord",
-    "title_discard": "Jeter",
-    "action_discard_app": "Jeter toute l'application",
+    "title_discard": "Supprimer",
+    "action_discard_app": "Supprimer votre application",
     "action_cancel": "Annuler un rendez-vous et sauvegarder les détails",
     "action_submit": "Soumettre",
     "action_dismiss": "D'accord",
