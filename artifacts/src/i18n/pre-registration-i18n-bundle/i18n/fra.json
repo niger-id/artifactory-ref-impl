@@ -79,7 +79,7 @@
     "CenterSelection": {
       "name": "Choisissez un centre d'inscription",
       "list": {
-        "line1": "Sur la page Rendez-vous du livre, vous pouvez trouver un centre d’inscription via les trois options suivantes:",
+        "line1": "Sur la page Prise de Rendez vous, vous pouvez trouver un centre d’inscription via les trois options suivantes:",
         "line1_note": "Remarque: les centres d'inscription recommandés sont automatiquement affichés en fonction de vos détails démographiques (code postal).",
         "subList": {
           "line1": "Cliquez sur Centres proches pour afficher les centres d'enregistrement en fonction de votre situation géographique.",
@@ -360,7 +360,7 @@
     "title_document": "Télécharger des documents",
     "text_filetype": "Type de fichier autorisé ",
     "text_filesize": "et taille de fichier autorisée",
-    "action_browse": "FEUILLETER",
+    "action_browse": "Parcourir",
     "action_back": "RETOUR",
     "action_skip": "SAUTER",
     "action_continue": "CONTINUER",
@@ -502,7 +502,7 @@
     },
     "error": {
       "error": "Erreur Interne du Serveur. Veuillez réessayer après un certain temps.",
-      "button_ok": "D'accord"
+      "button_ok": "Non"
     },
     "dataCaptureLanguage":{
       "title":"Choisir la langue",
@@ -513,7 +513,7 @@
     }
   },
   "timeSelection": {
-    "title_book": "Rendez-vous du livre",
+    "title_book": "Prise de Rendez vous",
     "text_prev": "précédent",
     "text_next": "Suivant",
     "text_morning": "Matin",
@@ -550,7 +550,7 @@
     }
   },
   "appointmentCentreSearch": {
-    "title": "Rendez-vous du livre",
+    "title": "Prise de Rendez vous",
     "text_recommended_centres": "Centres recommandés",
     "text_finding_result": "trouver le résultat pour",
     "text_nearBy": "Proche",
@@ -571,19 +571,19 @@
     "text_mobile": "Entrez le numéro de téléphone",
     "invalidApplicantNumber": "Numéro de portable invalide",
     "invalidApplicantEmailId": "Identifiant email invalide",
-    "action_ok": "D'accord",
+    "action_ok": "Non",
     "title_discard": "Supprimer",
     "action_discard_app": "Supprimer votre application",
     "action_cancel": "Annuler un rendez-vous et sauvegarder les détails",
     "action_submit": "Soumettre",
-    "action_dismiss": "D'accord",
+    "action_dismiss": "Non",
     "action_add": "Ajouter",
-    "action_close": "Fermer",
+    "action_close": "Oui",
     "action_add_to_slot": "Ajouter à la fente",
     "navigation_alert": "Êtes-vous sûr de vouloir quitter le site car les données saisies ne seront pas enregistrées. Veuillez confirmer"
   },
   "centerSelection": {
-    "title": " Rendez-vous du livre ",
+    "title": "Prise de Rendez vous",
     "action_nearBy": "Proche",
     "display_recommended": "Centres recommandés",
     "text_found": "A trouvé",
@@ -637,7 +637,7 @@
       "\n\n Code d'erreur: "
     ],
     "sessionInvalidLogout": "Your session has expired. Please login again.",
-    "button_ok": "D'accord",
+    "button_ok": "Non",
     "postalCode": "Le code PIN entré est invalide",
     "email": "Le courriel entré est invalide",
     "phone": "Le téléphone entré est invalide",
