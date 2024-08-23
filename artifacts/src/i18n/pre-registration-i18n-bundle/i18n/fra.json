@@ -298,7 +298,7 @@
   "stepper": {
     "link_demographic": "Détails démographiques",
     "link_upload_doc": "Télécharger un document",
-    "link_book": "Prise de Rendez vous",
+    "link_book": "Prise de rendez-vous",
     "link_confirm": "Confirmation"
   },
   "demographic": {
@@ -513,7 +513,7 @@
     }
   },
   "timeSelection": {
-    "title_book": "Prise de Rendez vous",
+    "title_book": "Prise de rendez-vous",
     "text_prev": "précédent",
     "text_next": "Suivant",
     "text_morning": "Matin",
@@ -550,7 +550,7 @@
     }
   },
   "appointmentCentreSearch": {
-    "title": "Prise de Rendez vous",
+    "title": "Prise de rendez-vous",
     "text_recommended_centres": "Centres recommandés",
     "text_finding_result": "trouver le résultat pour",
     "text_nearBy": "Proche",
@@ -583,7 +583,7 @@
     "navigation_alert": "Êtes-vous sûr de vouloir quitter le site car les données saisies ne seront pas enregistrées. Veuillez confirmer"
   },
   "centerSelection": {
-    "title": "Prise de Rendez vous",
+    "title": "Prise de rendez-vous",
     "action_nearBy": "Proche",
     "display_recommended": "Centres recommandés",
     "text_found": "A trouvé",
