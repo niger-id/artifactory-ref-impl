@@ -72,6 +72,9 @@ ENV jpeg_sdk_path=${base_path}/libs-release-local/jpeg-mock-sdk/1.1.5/
 # environment valiable for image-compressor jar
 ENV image_compressor_path=${base_path}/libs-release-local/compressor/
 
+# environment variable for custom-impl jar path
+ENV custom_zip_path=${base_path}/libs-release-local/impl
+
 # environment variable for Kernel Jars
 ENV kernel_jar_path=${base_path}/libs-release-local/io/mosip/kernel
 
@@ -159,6 +162,8 @@ COPY /src/master-templates/* ${work_dir}/master-templates/
 COPY /src/i18n/idp-i18n-bundle/*  ${work_dir}/idp-i18n-bundle/
 
 COPY /src/i18n/oidc-demo-i18n-bundle/*  ${work_dir}/oidc-demo-i18n-bundle/
+
+COPY /src/impl/* ${custom_zip_path}/
 
 COPY /src/i18n/mock-relying-party-i18n-bundle/*  ${work_dir}/mock-relying-party-i18n-bundle/
 
