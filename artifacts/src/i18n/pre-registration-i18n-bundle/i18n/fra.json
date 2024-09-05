@@ -344,7 +344,7 @@
       "subtitle": "Votre accord",
       "message": "Donner son ement pour le stockage et l'utilisation des informations personnelles telles qu'elles sont données",
       "checkCondition": "Cliquez pour accepter les termes et conditions",
-      "acceptButton": "Acceptez",
+      "acceptButton": "Accepter",
       "cancelButton": "Annuler",
       "alertMessageFirst": "Vous serez déconnecté car vous n'acceptez pas les conditions générales",
       "alertMessageSecond": "Vous serez redirigé vers votre page d'application parce que vous n'acceptez pas les conditions générales",
