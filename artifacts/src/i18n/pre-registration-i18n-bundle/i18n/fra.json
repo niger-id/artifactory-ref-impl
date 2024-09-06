@@ -502,7 +502,7 @@
     },
     "error": {
       "error": "Erreur Interne du Serveur. Veuillez réessayer après un certain temps.",
-      "button_ok": "Non"
+      "button_ok": "OUI"
     },
     "dataCaptureLanguage":{
       "title":"Choisir la langue",
@@ -571,14 +571,14 @@
     "text_mobile": "Entrez le numéro de téléphone",
     "invalidApplicantNumber": "Numéro de portable invalide",
     "invalidApplicantEmailId": "Identifiant email invalide",
-    "action_ok": "Non",
+    "action_ok": "OUI",
     "title_discard": "Supprimer",
     "action_discard_app": "Supprimer Votre l'application",
     "action_cancel": "Annuler un rendez-vous et sauvegarder les détails",
     "action_submit": "Soumettre",
-    "action_dismiss": "Non",
+    "action_dismiss": "OUI",
     "action_add": "Ajouter",
-    "action_close": "Oui",
+    "action_close": "Fermer",
     "action_add_to_slot": "Ajouter à la fente",
     "navigation_alert": "Êtes-vous sûr de vouloir quitter le site car les données saisies ne seront pas enregistrées. Veuillez confirmer"
   },
@@ -637,7 +637,7 @@
       "\n\n Code d'erreur: "
     ],
     "sessionInvalidLogout": "Your session has expired. Please login again.",
-    "button_ok": "Non",
+    "button_ok": "OUI",
     "postalCode": "Le code PIN entré est invalide",
     "email": "Le courriel entré est invalide",
     "phone": "Le téléphone entré est invalide",
