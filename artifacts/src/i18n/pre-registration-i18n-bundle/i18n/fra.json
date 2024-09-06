@@ -502,7 +502,7 @@
     },
     "error": {
       "error": "Erreur Interne du Serveur. Veuillez réessayer après un certain temps.",
-      "button_ok": "Non"
+      "button_ok": "OUI"
     },
     "dataCaptureLanguage":{
       "title":"Choisir la langue",
